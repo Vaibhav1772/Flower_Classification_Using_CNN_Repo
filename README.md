@@ -19,7 +19,7 @@ This repository contains a flower classification model implemented using TensorF
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flower-classification.git
+   git clone https://github.com/Vaibhav1772/Flower_Classifaction_Using_CNN_Repo.git
    ```
 
 2. Install the required dependencies:
@@ -68,8 +68,8 @@ We would like to express our gratitude to the original creators of the dataset. 
 
 Follow these steps to set up the project and install the required dependencies:
 
-1. Clone the repository: `git clone https://github.com/[Vaibhav1772]/[Flower_Classification_Using_CNN_Repo].git`
-2. Change to the project directory: `cd [Flower_Classification_Using_CNN_Repo]`
+1. Clone the repository: `git clone https://github.com/Vaibhav1772/Flower_Classification_Using_CNN_Repo.git`
+2. Change to the project directory: `cd Flower_Classification_Using_CNN_Repo`
 3. Install the dependencies: `pip install -r requirements.txt`
 
 ### Training the Model
